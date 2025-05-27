@@ -45,7 +45,7 @@
   <img src="https://github.com/Xage-masa/mistral7b-empathy-lora-project/blob/main/frontend/public/gif/read.gif?raw=true" width="300" alt="reading">
 </p>
 
-Пока все устанавливается, можешь немного почитать о проекте… Или просто поболтать с Широ. Она всегда рядом.
+<p align="center"><em>Пока все устанавливается, можешь немного почитать о проекте… Или просто поболтать с Широ. Она всегда рядом.</em></p>
 
 ## Быстрый запуск
 
