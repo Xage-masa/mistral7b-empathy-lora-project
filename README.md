@@ -17,12 +17,13 @@
 ---
 
 <p align="center">
-  <img src="frontend/public/character/gif/idle.gif" width="220" alt="AI-компаньон приветствует вас">
+  <img src="https://github.com/Xage-masa/mistral7b-empathy-lora-project/blob/main/frontend/public/gif/idle.gif?raw=true" width="220" alt="AI-компаньон приветствует вас">
 </p>
 
-<p align="center"><em>ИИ-компаньон приветствует вас и готов к работе</em></p>
+<p align="center"><em>ИИ-компаньон Широ приветствует вас и готова к работе</em></p>
 
 ---
+
 
 
 ```markdown
@@ -40,6 +41,11 @@
 
 
 ````
+<p align="center">
+  <img src="https://github.com/Xage-masa/mistral7b-empathy-lora-project/blob/main/frontend/public/gif/read.gif?raw=true" width="300" alt="reading">
+</p>
+
+Пока все устанавливается, можешь немного почитать о проекте… Или просто поболтать с Широ. Она всегда рядом.
 
 ## Быстрый запуск
 
@@ -68,10 +74,11 @@ uvicorn bot.main:app --reload
 [Открыть W&B репорт](https://api.wandb.ai/links/summonerlin-geekbrains/aip54d0n)
 
 <p align="center">
-  <img src="frontend/public/character/gif/worry.gif" width="220" alt="AI-компаньон переживает за обучение">
+  <img src="https://github.com/Xage-masa/mistral7b-empathy-lora-project/blob/main/frontend/public/gif/worry2.gif?raw=true" width="220" alt="AI-компаньон тревожится">
 </p>
 
-<p align="center"><em>ИИ-компаньон слегка тревожится за стабильность градиентов</em></p>
+<p align="center"><em>Широ слегка тревожится за стабильность градиентов</em></p>
+
 
 
 ---
