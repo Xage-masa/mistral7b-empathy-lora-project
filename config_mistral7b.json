@@ -1,0 +1,10 @@
+{
+  "model_name": "mistralai/Mistral-7B-Instruct-v0.2",
+  "output_dir": "mistral7b-empathy-lora-output",
+  "dataset_path": "combined_data_ru.jsonl",
+  "epochs": 3,
+  "batch_size": 4,
+  "lr": 2e-4,
+  "use_wandb": true,
+  "wandb_project": "mistral_empathy_lora"
+}
